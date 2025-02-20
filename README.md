@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hey there! I'm a passionate Information Technology student with a strong interest in web development and all things tech. <br>🚀 My goal is to become a professional web developer, creating sleek, functional, and user-friendly websites and applications. <br>🌱 Currently, I'm learning and exploring HTML, CSS, JavaScript, React, and backend technologies to build my skill set.<br>💡 I love solving problems, turning ideas into code, and constantly improving my craft.<br>🎨 When I'm not coding, I enjoy brainstorming creative designs and experimenting with new tools and frameworks.<br>💬 Feel free to reach out if you'd like to collaborate, chat about tech, or share ideas! I'm always open to learning and connecting. <br>📫 How to reach me: Instagram: https://www.instagram.com/lei_nonymous/#
-                                                  Gmail: 1601161@ub.edu.ph
+👋 Hey there! I'm a passionate Information Technology student with a strong interest in web development and all things tech. <br>🚀 My goal is to become a professional web developer, creating sleek, functional, and user-friendly websites and applications. <br>🌱 Currently, I'm learning and exploring HTML, CSS, JavaScript, React, and backend technologies to build my skill set.<br>💡 I love solving problems, turning ideas into code, and constantly improving my craft.<br>🎨 When I'm not coding, I enjoy brainstorming creative designs and experimenting with new tools and frameworks.<br>💬 Feel free to reach out if you'd like to collaborate, chat about tech, or share ideas! I'm always open to learning and connecting. <br>📫 How to reach me:
+Gmail: 1601161@ub.edu.ph
+Instagram: https://www.instagram.com/lei_nonymous/#
+
 
 
 ## 🌐 Socials:
